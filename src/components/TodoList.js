@@ -23,7 +23,7 @@ class TodoList extends React.Component{
        
        return ( 
            <div>
-               <h5>todo list</h5>
+               <h1>Todo list</h1>
                <div class="input-item">
                 <input type="text" placeholder="Enter Item"  onChange={this.readInput} value={this.state.enteredVal}/>
 

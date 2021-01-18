@@ -10,7 +10,7 @@ class TodoItem extends React.Component{
        
        return ( 
            <div>
-           todo item
+               <p>The item is: {this.props.inputText}</p>
            </div>
 
        )

@@ -29,9 +29,8 @@ class TodoList extends React.Component{
 
                     
                </div>
-               <TodoItem/>
-               <TodoItem/>
-               <TodoItem/>
+               <TodoItem inputText={this.state.enteredVal}/>
+               
 
 
            </div>

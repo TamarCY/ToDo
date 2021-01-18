@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1>lest start</h1>
-      <p>push!</p>
+      <p>push again!</p>
     </div>
   );
 }

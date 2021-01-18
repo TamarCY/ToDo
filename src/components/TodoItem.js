@@ -12,16 +12,12 @@ class TodoItem extends React.Component{
         const itemText = this.props.inputText;
         const newItem = new Item ({itemText})
         console.log(newItem.text)
-        
+        // const itemArr = []
+        // itemArr.push()
     }
 
 
-    // readNewItem(){
-    //     const newItem = this.props.inputText;
-    //     const itemArr = [];
-    //     itemArr.
-
-    // }
+  
 
 
 
